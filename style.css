@@ -53,3 +53,9 @@ h2 {
   align-items: flex-end;
   flex-direction: column;
 }
+.misol p {
+  font-size: 28px;
+}
+.misol h1 {
+  font-size: 60px;
+}
